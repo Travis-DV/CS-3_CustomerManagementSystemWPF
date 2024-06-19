@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\customermanagementsystemwpf\\customermanagementsystemwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|solutionrelative:customermanagementsystemwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\customermanagementsystemwpf\\customermanagementsystemwpf\\newcustomer.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|solutionrelative:customermanagementsystemwpf\\newcustomer.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\customermanagementsystemwpf\\customermanagementsystemwpf\\neworder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|solutionrelative:customermanagementsystemwpf\\neworder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\customermanagementsystemwpf\\customermanagementsystemwpf\\dataclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|solutionrelative:customermanagementsystemwpf\\dataclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\customermanagementsystemwpf\\customermanagementsystemwpf\\neworder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|solutionrelative:customermanagementsystemwpf\\neworder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\customermanagementsystemwpf\\customermanagementsystemwpf\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|solutionrelative:customermanagementsystemwpf\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\customermanagementsystemwpf\\customermanagementsystemwpf\\newcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|solutionrelative:customermanagementsystemwpf\\newcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\customermanagementsystemwpf\\customermanagementsystemwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E675A4C-4AEC-443F-B4A8-BF45FE405769}|CustomerManagementSystemWPF\\CustomerManagementSystemWPF.csproj|solutionrelative:customermanagementsystemwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewCustomer.xaml",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\NewCustomer.xaml",
+              "RelativeDocumentMoniker": "CustomerManagementSystemWPF\\NewCustomer.xaml",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\NewCustomer.xaml",
+              "RelativeToolTip": "CustomerManagementSystemWPF\\NewCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T04:42:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewCustomer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\NewCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystemWPF\\NewCustomer.xaml.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\NewCustomer.xaml.cs",
+              "RelativeToolTip": "CustomerManagementSystemWPF\\NewCustomer.xaml.cs",
+              "ViewState": "AQIAAAgAAAD4ZmZmZuYjwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:25:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\NewOrder.xaml",
+              "RelativeDocumentMoniker": "CustomerManagementSystemWPF\\NewOrder.xaml",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\NewOrder.xaml",
+              "RelativeToolTip": "CustomerManagementSystemWPF\\NewOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T05:24:32.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\NewOrder.xaml.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystemWPF\\NewOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\NewOrder.xaml.cs",
+              "RelativeToolTip": "CustomerManagementSystemWPF\\NewOrder.xaml.cs",
+              "ViewState": "AQIAACwAAAAAHgAAAAD4vy4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:24:28.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataClasses.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\DataClasses.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystemWPF\\DataClasses.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\DataClasses.cs",
+              "RelativeToolTip": "CustomerManagementSystemWPF\\DataClasses.cs",
+              "ViewState": "AQIAABgAAAAAy8zMzEwfwEkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:48:27.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CustomerManagementSystemWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\MainWindow.xaml",
+              "RelativeToolTip": "CustomerManagementSystemWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T04:49:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystemWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CustomerManagementSystemWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAIwHwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:47:50.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\Validator.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystemWPF\\Validator.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\CustomerManagementSystemWPF\\CustomerManagementSystemWPF\\Validator.cs",
+              "RelativeToolTip": "CustomerManagementSystemWPF\\Validator.cs",
+              "ViewState": "AQIAAIUAAAAA8v///38WwNEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:55:34.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
