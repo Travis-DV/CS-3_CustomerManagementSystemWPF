@@ -1,5 +1,5 @@
 
-# Project 3 : Customer Management System using WPF
+# Project 2 : Customer Management System using WPF
 
 ## Requirements
 
